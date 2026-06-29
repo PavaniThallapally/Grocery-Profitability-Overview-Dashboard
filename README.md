@@ -4,7 +4,8 @@
 This project analyses company sales and profitability data to uncover key profit drivers, identify underperforming areas, and provide actionable business recommendations. The goal is to support **data-driven strategic decision-making** across sales channels, product categories, and geographic regions.
 
 
-![1770316393149](https://github.com/user-attachments/assets/1b3b1e15-4063-438b-bf66-d49a02a6807d)
+<img width="3402" height="1585" alt="Screenshot (561)" src="https://github.com/user-attachments/assets/35fa1205-c030-4f06-9794-327417001e8d" />
+
 
 ## Business Problem
 The company lacks visibility into its profitability performance across **sales channels, products, sub-categories, categories, and regions**, making it difficult to identify where profit is truly being generated and where strategic focus should be applied. This limits effective decision-making related to **investment prioritisation, pricing strategy, inventory planning, and regional expansion**.
